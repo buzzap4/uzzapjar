@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+MIDlet-Vendor: 3rd Brand Pte Ltd.
+Ant-Version: Apache Ant 1.7.0
+MIDlet-Version: 1.0.14
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Uzzap, themes/default/kolipri-42x29.png, com.kolipri.kalypte
+ .Kalypte
+Created-By: 1.6.0-b105 (Sun Microsystems Inc.)
+MIDlet-Name: Uzzap
+MicroEdition-Profile: MIDP-2.0
+
